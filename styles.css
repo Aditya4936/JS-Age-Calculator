@@ -71,7 +71,12 @@
 #result span{
     color: rgb(35, 150, 106);
 }
-
+footer{
+    padding-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 @media (max-width : 740px) {
     .calculator h1 span{
         color: rgb(35, 150, 106);
